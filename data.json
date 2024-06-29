@@ -1,0 +1,150 @@
+{
+    "projects": [
+        {
+            "title": "Frontend quiz app",
+            "img": "../img/projects/frontend_quiz_app.png",
+            "info": [
+                {
+                    "projectURLSite": "https://ivandefender.github.io/QuizApp/",
+                    "projectCode": "https://github.com/Ivandefender/QuizApp/tree/main/js",
+                    "stack": ["HTML", "CSS", "JavaScript"]  
+                } 
+            ]
+        },
+        {
+            "title": "Galleria site",
+            "img": "../img/projects/galleria_site.png",
+            "info": [
+                {
+                    "projectURLSite": "https://ivandefender.github.io/Galleria/index.html",
+                    "projectCode": "https://github.com/Ivandefender/Galleria/blob/main/js/art_page.js",
+                    "stack": ["HTML", "CSS", "JavaScript"]  
+                } 
+            ]
+        },
+        {
+            "title": "Travel with us site",
+            "img": "../img/projects/travel_site.png",
+            "info": [
+                {
+                    "projectURLSite": "https://ivandefender.github.io/Travel-With-Us/",
+                    "projectCode": "https://github.com/Ivandefender/Travel-With-Us",
+                    "stack": ["HTML", "CSS"]  
+                } 
+            ]
+        },
+        {
+            "title": "Suite Landing page",
+            "img": "../img/projects/suite_landing_page.png",
+            "info": [
+                {
+                    "projectURLSite": "https://ivandefender.github.io/Suite-landing-page/",
+                    "projectCode": "https://github.com/Ivandefender/Suite-landing-page",
+                    "stack": ["HTML", "CSS"]   
+                } 
+            ]
+        },
+        {
+            "title": "Pomodoro Timer App",
+            "img": "../img/projects/pomodoro_app.png",
+            "info": [
+                {
+                    "projectURLSite": "https://ivandefender.github.io/Pomodoro-App/",
+                    "projectCode": "https://github.com/Ivandefender/Pomodoro-App/blob/main/js/script.js",
+                    "stack": ["HTML", "CSS", "JavaScript"]   
+                } 
+            ]
+        },
+        {
+            "title": "Photosnap Site",
+            "img": "../img/projects/photosnap_site.png",
+            "info": [
+                {
+                    "projectURLSite": "https://ivandefender.github.io/Photosnap-Site/",
+                    "projectCode": "https://github.com/Ivandefender/Photosnap-Site",
+                    "stack": ["HTML", "SCSS", "JavaScript"]   
+                } 
+            ]
+        },
+        {
+            "title": "Job listings with filtering",
+            "img": "../img/projects/job_filtering.png",
+            "info": [
+                {
+                    "projectURLSite": "https://ivandefender.github.io/Job-Listings/",
+                    "projectCode": "https://github.com/Ivandefender/Job-Listings",
+                    "stack": ["HTML", "CSS", "JavaScript"]   
+                } 
+            ]
+        },
+        {
+            "title": "Planets Fact Site",
+            "img": "../img/projects/planets_site.png",
+            "info": [
+                {
+                    "projectURLSite": "https://ivandefender.github.io/Planets/",
+                    "projectCode": "https://github.com/Ivandefender/Planets/blob/main/js/script.js",
+                    "stack": ["HTML", "CSS", "JavaScript"]   
+                } 
+            ]
+        },
+        {
+            "title": "Todo List App",
+            "img": "../img/projects/todo_list.png",
+            "info": [
+                {
+                    "projectURLSite": "https://ivandefender.github.io/TodoList-App/",
+                    "projectCode": "https://github.com/Ivandefender/TodoList-App/blob/main/js/script.js",
+                    "stack": ["HTML", "CSS", "JavaScript"]   
+                } 
+            ]
+        },
+        {
+            "title": "Keyboard Eyes on the screen",
+            "img": "../img/projects/keyboard_game.png",
+            "info": [
+                {
+                    "projectURLSite": "https://ivandefender.github.io/Eyes-on-the-Screen/",
+                    "projectCode": "https://github.com/Ivandefender/Eyes-on-the-Screen/blob/main/js/script.js",
+                    "stack": ["HTML", "CSS", "JavaScript"]   
+                } 
+            ]
+        }
+    ],
+
+    
+    "skills": [
+        {
+            "skill": "HTML5",
+            "experience": "4 Years"      
+        }, 
+        {
+            "skill": "CSS3",
+            "experience": "4 Years"
+        },
+        {
+            "skill": "JavaScript",
+            "experience": "2 Years"
+        },
+        {
+            "skill": "JQuery",
+            "experience": "1 Year"
+        },
+        {
+            "skill": "SCSS",
+            "experience": "1 Year"
+        },
+        {
+            "skill": "Accessibility",
+            "experience": "3 Years"
+        },
+        {
+            "skill": "Git",
+            "experience": "2 Years"
+        },
+        {
+            "skill": ".NET C#",
+            "experience": "1 Year"
+        }
+    ]
+}    
