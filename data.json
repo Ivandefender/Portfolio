@@ -2,7 +2,7 @@
     "projects": [
         {
             "title": "Frontend quiz app",
-            "img": "img/projects/frontend_quiz_app.png",
+            "img": "./img/projects/frontend_quiz_app.png",
             "info": [
                 {
                     "projectURLSite": "https://ivandefender.github.io/QuizApp/",
@@ -13,7 +13,7 @@
         },
         {
             "title": "Galleria site",
-            "img": "../img/projects/galleria_site.png",
+            "img": "./img/projects/galleria_site.png",
             "info": [
                 {
                     "projectURLSite": "https://ivandefender.github.io/Galleria/index.html",
@@ -24,7 +24,7 @@
         },
         {
             "title": "Travel with us site",
-            "img": "../img/projects/travel_site.png",
+            "img": "./img/projects/travel_site.png",
             "info": [
                 {
                     "projectURLSite": "https://ivandefender.github.io/Travel-With-Us/",
@@ -35,7 +35,7 @@
         },
         {
             "title": "Suite Landing page",
-            "img": "../img/projects/suite_landing_page.png",
+            "img": "./img/projects/suite_landing_page.png",
             "info": [
                 {
                     "projectURLSite": "https://ivandefender.github.io/Suite-landing-page/",
@@ -46,7 +46,7 @@
         },
         {
             "title": "Pomodoro Timer App",
-            "img": "../img/projects/pomodoro_app.png",
+            "img": "./img/projects/pomodoro_app.png",
             "info": [
                 {
                     "projectURLSite": "https://ivandefender.github.io/Pomodoro-App/",
@@ -57,7 +57,7 @@
         },
         {
             "title": "Photosnap Site",
-            "img": "../img/projects/photosnap_site.png",
+            "img": "./img/projects/photosnap_site.png",
             "info": [
                 {
                     "projectURLSite": "https://ivandefender.github.io/Photosnap-Site/",
@@ -68,7 +68,7 @@
         },
         {
             "title": "Job listings with filtering",
-            "img": "../img/projects/job_filtering.png",
+            "img": "./img/projects/job_filtering.png",
             "info": [
                 {
                     "projectURLSite": "https://ivandefender.github.io/Job-Listings/",
@@ -79,7 +79,7 @@
         },
         {
             "title": "Planets Fact Site",
-            "img": "../img/projects/planets_site.png",
+            "img": "./img/projects/planets_site.png",
             "info": [
                 {
                     "projectURLSite": "https://ivandefender.github.io/Planets/",
@@ -90,7 +90,7 @@
         },
         {
             "title": "Todo List App",
-            "img": "../img/projects/todo_list.png",
+            "img": "./img/projects/todo_list.png",
             "info": [
                 {
                     "projectURLSite": "https://ivandefender.github.io/TodoList-App/",
@@ -101,7 +101,7 @@
         },
         {
             "title": "Keyboard Eyes on the screen",
-            "img": "../img/projects/keyboard_game.png",
+            "img": "./img/projects/keyboard_game.png",
             "info": [
                 {
                     "projectURLSite": "https://ivandefender.github.io/Eyes-on-the-Screen/",
