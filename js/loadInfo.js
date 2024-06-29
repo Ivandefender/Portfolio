@@ -28,7 +28,7 @@ function projectsContent(projectsData) {
     const projectItem = document.createElement("div");
     projectItem.className = "projects__item";
     projectItem.innerHTML = `
-        <div class="item__screen" style="background-image: url(Portfolio/${project.img})">
+        <div class="item__screen" style="background-image: url(${project.img})">
             <div class="item__color">
                 <a class="link" href="${
                   project.info[0].projectURLSite
