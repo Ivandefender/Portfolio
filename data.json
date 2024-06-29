@@ -2,7 +2,7 @@
     "projects": [
         {
             "title": "Frontend quiz app",
-            "img": "Portfolio/img/projects/frontend_quiz_app.png",
+            "img": "../img/projects/frontend_quiz_app.png",
             "info": [
                 {
                     "projectURLSite": "https://ivandefender.github.io/QuizApp/",
