@@ -6,7 +6,7 @@
             "info": [
                 {
                     "projectURLSite": "https://ivandefender.github.io/QuizApp/",
-                    "projectCode": "https://github.com/Ivandefender/QuizApp/tree/main/js",
+                    "projectCode": "https://github.com/Ivandefender/QuizApp",
                     "stack": ["HTML", "CSS", "JavaScript"]  
                 } 
             ]
@@ -17,7 +17,7 @@
             "info": [
                 {
                     "projectURLSite": "https://ivandefender.github.io/Galleria/index.html",
-                    "projectCode": "https://github.com/Ivandefender/Galleria/blob/main/js/art_page.js",
+                    "projectCode": "https://github.com/Ivandefender/Galleria",
                     "stack": ["HTML", "CSS", "JavaScript"]  
                 } 
             ]
@@ -50,7 +50,7 @@
             "info": [
                 {
                     "projectURLSite": "https://ivandefender.github.io/Pomodoro-App/",
-                    "projectCode": "https://github.com/Ivandefender/Pomodoro-App/blob/main/js/script.js",
+                    "projectCode": "https://github.com/Ivandefender/Pomodoro-App",
                     "stack": ["HTML", "CSS", "JavaScript"]   
                 } 
             ]
@@ -83,7 +83,7 @@
             "info": [
                 {
                     "projectURLSite": "https://ivandefender.github.io/Planets/",
-                    "projectCode": "https://github.com/Ivandefender/Planets/blob/main/js/script.js",
+                    "projectCode": "https://github.com/Ivandefender/Planets",
                     "stack": ["HTML", "CSS", "JavaScript"]   
                 } 
             ]
@@ -94,7 +94,7 @@
             "info": [
                 {
                     "projectURLSite": "https://ivandefender.github.io/TodoList-App/",
-                    "projectCode": "https://github.com/Ivandefender/TodoList-App/blob/main/js/script.js",
+                    "projectCode": "https://github.com/Ivandefender/TodoList-App",
                     "stack": ["HTML", "CSS", "JavaScript"]   
                 } 
             ]
@@ -105,7 +105,7 @@
             "info": [
                 {
                     "projectURLSite": "https://ivandefender.github.io/Eyes-on-the-Screen/",
-                    "projectCode": "https://github.com/Ivandefender/Eyes-on-the-Screen/blob/main/js/script.js",
+                    "projectCode": "https://github.com/Ivandefender/Eyes-on-the-Screen",
                     "stack": ["HTML", "CSS", "JavaScript"]   
                 } 
             ]
