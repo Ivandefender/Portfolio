@@ -127,6 +127,22 @@
             "experience": "2 Years"
         },
         {
+            "skill": "Node.Js",
+            "experience": "5 Months"
+        },
+        {
+            "skill": "TypeScript",
+            "experience": "3 Months"
+        },
+        {
+            "skill": "React.Js",
+            "experience": "3 Months"
+        },
+        {
+            "skill": "Next.Js",
+            "experience": "1 Month"
+        },
+        {
             "skill": "JQuery",
             "experience": "1 Year"
         },
